@@ -65,5 +65,7 @@ Metadata:
 
 ![Week 1 to 4 Outline](./Presentations/images/w1-4_outline.png)
 
+![Linear combination idea visualization](./Presentations/images/linear_combination_idea.png)
+
 
 
