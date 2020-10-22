@@ -65,5 +65,7 @@ Metadata:
 
 ![Week 1 to 4 Outline](./Presentations/images/w1-4 outline.png)
 
+![Uncanny Valley](./Presentations/overview.png)
+
 
 
