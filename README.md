@@ -62,6 +62,7 @@ Metadata:
     - Embedding a story using sentence-BERT, a SOTA model to embed text
 - Current idea is adding up all vectors to find a story vector and find a linear combination of comments vectors to get the “evaluations” of a story vector.
 - Do these steps for r/NoSleep and r/Confessions to make classifications
+
 ![Week 1 to 4 Outline](./Presentations/images/w1-4 outline.png)
 
 
