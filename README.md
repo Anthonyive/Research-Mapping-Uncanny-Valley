@@ -16,13 +16,13 @@ Here is my code to tackle this.
 ![Uncanny Valley](./Presentations/overview.png)
 
 ## Data 
-[Data](https://tinyurl.com/y5dyh8sw) from subreddits:
+### [Data](https://tinyurl.com/y5dyh8sw) from subreddits:
 - r/NoSleep
 - r/Confessions
 - r/Confession
 - ...
 
-Metadata:
+### Metadata:
 - 11 GB of data
 - 9 Subreddits
 - Over 10 years of data
