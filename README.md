@@ -10,8 +10,7 @@ Here is my code to tackle this.
 - Goal: help answer what makes text creepy
     - Learn and apply skills of natural language processing
     - Learn what to avoid for AI design and human-computer interaction
-    - Understandthepsychologyofhumans:whyare creatures or scenarios scary?
-- Skills needed: Python, interest in NLP
+    - Understand the psychology of humans: why are creatures or scenarios scary?
 
 ![Uncanny Valley](./Presentations/overview.png)
 
