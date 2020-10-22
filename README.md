@@ -67,5 +67,7 @@ Metadata:
 
 ![Linear combination idea visualization](./Presentations/images/linear_combination_idea.png)
 
+#### Problem
+- Order of magnitude: most post has upvotes of 1 or 2. This may lead to instability for neural networks.
 
 
