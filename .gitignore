@@ -141,3 +141,6 @@ word2vec.model
 
 pickles
 pickles.zip
+
+.ipynb
+.Rhistory
