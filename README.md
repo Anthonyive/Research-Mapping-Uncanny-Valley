@@ -71,7 +71,7 @@ Here is my code to tackle this.
 
 ### Week 5
 
-![w5-slide1](./Presentations/10-26-2020/Slides PNG/10-26-2020/Slide1.png)
+![w5-slide1](Presentations/10-26-2020/Slides PNG/10-26-2020/Slide1.png)
 
 So the data look like this. In particular, I am interested in the data from this column.
 
