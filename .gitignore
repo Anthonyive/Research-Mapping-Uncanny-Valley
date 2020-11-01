@@ -144,3 +144,7 @@ pickles.zip
 
 .ipynb
 .Rhistory
+
+node_modules
+
+my_logs
