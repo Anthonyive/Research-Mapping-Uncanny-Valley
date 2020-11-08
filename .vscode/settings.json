@@ -2,5 +2,6 @@
     "python.pythonPath": ".venv\\creepyvenv\\Scripts\\python.exe",
     "json.schemas": [
     
-    ]
+    ],
+    "python.dataScience.jupyterServerURI": "local"
 }
