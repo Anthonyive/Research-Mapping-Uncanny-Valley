@@ -57,8 +57,8 @@ def clean_data(csv_in):
     
     # above code is replaced by fix_text from module ftfy
     # example:
-    # >>> print(fix_encoding("(à¸‡'âŒ£')à¸‡"))
-    # (ง'⌣')ง
+#     >>> print(fix_encoding("(à¸‡'âŒ£')à¸‡"))
+#     (ง'⌣')ง
     csv.title = csv.title.swifter.progress_bar(enable=True, desc='Cleaning titles').apply(fix_text)
     csv.selftext = csv.selftext.swifter.progress_bar(enable=True, desc='Cleaning posts').apply(fix_text)
     
