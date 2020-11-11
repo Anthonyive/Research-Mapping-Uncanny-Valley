@@ -1,4 +1,5 @@
 # Mapping-Uncanny-Valley
+![commit activity](https://img.shields.io/github/commit-activity/m/anthonyive/Research-Mapping-Uncanny-Valley?style=flat-square)
 This is an amazing research project from [Professor Keith](https://www.isi.edu/people/keithab/about)
 
 Here is my code to tackle this.
