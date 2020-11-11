@@ -3,7 +3,7 @@
 ![commit activity](https://img.shields.io/github/commit-activity/m/anthonyive/Research-Mapping-Uncanny-Valley?style=flat-square)
 ![code size](https://img.shields.io/github/languages/code-size/anthonyive/Research-Mapping-Uncanny-Valley?style=flat-square)
 ![repo size](https://img.shields.io/github/repo-size/anthonyive/Research-Mapping-Uncanny-Valley?style=flat-square)
-[![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
+[![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=flat-square&logo=Jupyter)](https://jupyter.org/try)
 
 
 This is an amazing research project from [Professor Keith](https://www.isi.edu/people/keithab/about)
