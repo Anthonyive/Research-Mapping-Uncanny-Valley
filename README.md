@@ -1,6 +1,7 @@
 # Mapping-Uncanny-Valley
 ![last commit](https://img.shields.io/github/last-commit/anthonyive/Research-Mapping-Uncanny-Valley?style=flat-square)
 ![commit activity](https://img.shields.io/github/commit-activity/m/anthonyive/Research-Mapping-Uncanny-Valley?style=flat-square)
+![repo size](https://img.shields.io/github/repo-size/anthonyive/Research-Mapping-Uncanny-Valley?style=flat-square)
 
 This is an amazing research project from [Professor Keith](https://www.isi.edu/people/keithab/about)
 
