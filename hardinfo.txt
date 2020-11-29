@@ -1,0 +1,508 @@
+
+Computer
+********
+
+
+Summary
+-------
+
+-Computer-
+Processor		: AMD Ryzen 5 3600 6-Core Processor
+Memory		: 65839MB (3399MB used)
+Machine Type		: Desktop
+Operating System		: Ubuntu 20.04.1 LTS
+User Name		: anthony (anthony)
+Date/Time		: Sun 29 Nov 2020 12:28:48 PM PST
+-Display-
+Resolution		: 2560x1080 pixels
+OpenGL Renderer		: (Unknown)
+X11 Vendor		: The X.Org Foundation
+-Audio Devices-
+Audio Adapter		: HDA-Intel - HDA NVidia
+Audio Adapter		: USB-Audio - USB PnP Audio Device
+Audio Adapter		: HDA-Intel - HD-Audio Generic
+-Input Devices-
+ Power Button
+ Power Button
+ PFU Limited HHKB-Hybrid
+ PFU Limited HHKB-Hybrid Consumer Control
+ PFU Limited HHKB-Hybrid Keyboard
+ USB PnP Audio Device
+ Logitech Logitech G903 Wired/Wireless Gaming Mouse
+ Logitech G903 Wired/Wireless Gaming Mouse
+ Razer Razer Base Station Chroma
+ Razer Razer Base Station Chroma Keyboard
+ Razer Razer Base Station Chroma Consumer Control
+ Razer Razer Base Station Chroma System Control
+ Razer Razer Base Station Chroma
+ Razer Razer Base Station Chroma
+ Logitech G903
+ Eee PC WMI hotkeys
+ HD-Audio Generic Front Mic
+ HD-Audio Generic Rear Mic
+ HD-Audio Generic Line
+ HD-Audio Generic Line Out Front
+ HD-Audio Generic Line Out Surround
+ HD-Audio Generic Line Out CLFE
+ HD-Audio Generic Front Headphone
+ HDA NVidia HDMI/DP,pcm:3
+ HDA NVidia HDMI/DP,pcm:7
+ HDA NVidia HDMI/DP,pcm:8
+ HDA NVidia HDMI/DP,pcm:9
+ HDA NVidia HDMI/DP,pcm:10
+ HDA NVidia HDMI/DP,pcm:11
+ HDA NVidia HDMI/DP,pcm:12
+-Printers-
+No printers found
+-SCSI Disks-
+ATA CT500MX500SSD1
+ATA WDC WDS250G2B0A-
+ATA ST1000LX015-1U71
+
+Operating System
+----------------
+
+-Version-
+Kernel		: Linux 5.4.0-54-generic (x86_64)
+Version		: #60-Ubuntu SMP Fri Nov 6 10:37:59 UTC 2020
+C Library		: GNU C Library / (Ubuntu GLIBC 2.31-0ubuntu9.1) 2.31
+Distribution		: Ubuntu 20.04.1 LTS
+-Current Session-
+Computer Name		: linux
+User Name		: anthony (anthony)
+Language		: en_US.UTF-8 (en_US.UTF-8)
+Home Directory		: /home/anthony
+-Misc-
+Uptime		: 49 minutes
+Load Average		: 0.21, 0.31, 0.39
+Available entropy in /dev/random		: 3834 bits (healthy)
+
+Kernel Modules
+--------------
+
+-Loaded Modules-
+rfcomm		: Bluetooth RFCOMM ver 1.11
+ccm		: Counter with CBC MAC
+cmac		: CMAC keyed hash algorithm
+algif_hash
+algif_skcipher
+af_alg
+bnep		: Bluetooth BNEP ver 1.3
+snd_hda_codec_hdmi		: HDMI HD-audio codec
+nvidia_uvm
+nvidia_drm
+edac_mce_amd		: AMD MCE decoder
+nls_iso8859_1
+nvidia_modeset
+snd_hda_codec_realtek		: Realtek HD-audio codec
+snd_hda_codec_generic		: Generic HD-audio codec parser
+ledtrig_audio		: LED trigger for audio mute control
+snd_hda_intel		: Intel HDA driver
+snd_intel_dspcfg		: Intel DSP config driver
+snd_usb_audio		: USB Audio
+kvm
+snd_hda_codec		: HDA codec core
+snd_usbmidi_lib		: USB Audio/MIDI helper module
+snd_hda_core		: HD-audio bus
+mc		: Device node registration for media drivers
+snd_hwdep		: Hardware dependent layer
+crct10dif_pclmul		: T10 DIF CRC calculation accelerated with PCLMULQDQ.
+ghash_clmulni_intel		: GHASH hash function, accelerated by PCLMULQDQ-NI
+nvidia
+snd_pcm		: Midlevel PCM code for ALSA.
+iwlmvm		: The new Intel(R) wireless AGN driver for Linux
+aesni_intel		: Rijndael (AES) Cipher Algorithm, Intel AES-NI instructions optimized
+snd_seq_midi		: Advanced Linux Sound Architecture sequencer MIDI synth.
+mac80211		: IEEE 802.11 subsystem
+snd_seq_midi_event		: MIDI byte &lt;-&gt; sequencer event coder
+crypto_simd
+snd_rawmidi		: Midlevel RawMidi code for ALSA.
+cryptd		: Software async crypto daemon
+libarc4
+glue_helper
+snd_seq		: Advanced Linux Sound Architecture sequencer.
+btusb		: Generic Bluetooth USB driver ver 0.8
+btrtl		: Bluetooth support for Realtek devices ver 0.1
+btbcm		: Bluetooth support for Broadcom devices ver 0.1
+snd_seq_device		: ALSA sequencer device management
+snd_timer		: ALSA timer interface
+iwlwifi		: Intel(R) Wireless WiFi driver for Linux
+btintel		: Bluetooth support for Intel devices ver 0.1
+drm_kms_helper		: DRM KMS helper
+bluetooth		: Bluetooth Core ver 2.22
+snd		: Advanced Linux Sound Architecture driver for soundcards.
+eeepc_wmi		: Eee PC WMI Hotkey Driver
+fb_sys_fops		: Generic file read (fb in system RAM)
+asus_wmi		: Asus Generic WMI Driver
+syscopyarea		: Generic copyarea (sys-to-sys)
+sysfillrect		: Generic fill rectangle (sys-to-sys)
+ucsi_ccg		: UCSI driver for Cypress CCGx Type-C controller
+input_leds		: Input -&gt; LEDs Bridge
+sparse_keymap		: Generic support for sparse keymaps
+typec_ucsi		: USB Type-C Connector System Software Interface driver
+ecdh_generic		: ECDH generic algorithm
+k10temp		: AMD Family 10h+ CPU core temperature monitor
+wmi_bmof		: WMI embedded Binary MOF driver
+ecc
+cfg80211		: wireless configuration support
+joydev		: Joystick device interfaces
+video		: ACPI Video Driver
+typec		: USB Type-C Connector Class
+ccp		: AMD Secure Processor driver
+soundcore		: Core sound module
+sysimgblt		: 1-bit/8-bit to 1-32 bit color expansion (sys-to-sys)
+mac_hid
+sch_fq_codel
+parport_pc		: PC-style parallel port driver
+ppdev
+lp
+parport
+drm		: DRM shared core routines
+ip_tables		: IPv4 packet filter
+x_tables		: {ip,ip6,arp,eb}_tables backend module
+autofs4
+hid_logitech_dj
+hid_logitech_hidpp
+hid_generic		: HID generic driver
+usbhid		: USB HID core driver
+hid
+crc32_pclmul
+i2c_piix4		: PIIX4 SMBus driver
+nvme
+igc		: Intel(R) 2.5G Ethernet Linux Driver
+i2c_nvidia_gpu		: Nvidia GPU I2C controller Driver
+ahci		: AHCI SATA low-level driver
+nvme_core
+libahci		: Common AHCI SATA low-level routines
+wmi		: ACPI-WMI Mapping Driver
+gpio_amdpt		: AMD Promontory GPIO Driver
+gpio_generic		: Driver for basic memory-mapped GPIO controllers
+
+Boots
+-----
+
+-Boots-
+Sun Nov 29 11:39		: 5.4.0-54-generic
+Sun Nov 29 11:33		: 5.4.0-54-generic
+Sun Nov 29 11:31		: 5.4.0-54-generic
+Sun Nov 29 03:26		: 5.4.0-54-generic
+
+Languages
+---------
+
+-Available Languages-
+en_AG		: English language locale for Antigua and Barbuda
+en_AG.utf8		: English language locale for Antigua and Barbuda
+en_AU.utf8		: English locale for Australia
+en_BW.utf8		: English locale for Botswana
+en_CA.utf8		: English locale for Canada
+en_DK.utf8		: English locale for Denmark
+en_GB.utf8		: English locale for Britain
+en_HK.utf8		: English locale for Hong Kong
+en_IE.utf8		: English locale for Ireland
+en_IL		: English locale for Israel
+en_IL.utf8		: English locale for Israel
+en_IN		: English language locale for India
+en_IN.utf8		: English language locale for India
+en_NG		: English locale for Nigeria
+en_NG.utf8		: English locale for Nigeria
+en_NZ.utf8		: English locale for New Zealand
+en_PH.utf8		: English language locale for Philippines
+en_SG.utf8		: English language locale for Singapore
+en_US.utf8		: English locale for the USA
+en_ZA.utf8		: English locale for South Africa
+en_ZM		: English locale for Zambia
+en_ZM.utf8		: English locale for Zambia
+en_ZW.utf8		: English locale for Zimbabwe
+C.UTF-8		: C locale
+
+Filesystems
+-----------
+
+-Mounted File Systems-
+udev	/dev	0.00 % (31.3 GiB of 31.3 GiB)	
+tmpfs	/run	0.04 % (6.3 GiB of 6.3 GiB)	
+/dev/sdb2	/	14.20 % (195.4 GiB of 227.7 GiB)	
+tmpfs	/dev/shm	0.61 % (31.2 GiB of 31.4 GiB)	
+tmpfs	/run/lock	0.08 % (5.0 MiB of 5.0 MiB)	
+tmpfs	/sys/fs/cgroup	0.00 % (31.4 GiB of 31.4 GiB)	
+/dev/loop1	/snap/canonical-livepatch/95	100.00 % (0.0 B of 9.1 MiB)	
+/dev/loop2	/snap/core/10185	100.00 % (0.0 B of 97.8 MiB)	
+/dev/loop5	/snap/snap-store/467	100.00 % (0.0 B of 49.9 MiB)	
+/dev/loop4	/snap/gnome-3-34-1804/36	100.00 % (0.0 B of 255.6 MiB)	
+/dev/loop3	/snap/gnome-3-34-1804/60	100.00 % (0.0 B of 218.0 MiB)	
+/dev/loop0	/snap/core18/1880	100.00 % (0.0 B of 55.0 MiB)	
+/dev/loop6	/snap/gtk-common-themes/1506	100.00 % (0.0 B of 62.1 MiB)	
+/dev/loop7	/snap/core18/1932	100.00 % (0.0 B of 55.4 MiB)	
+/dev/loop8	/snap/snapd/9721	100.00 % (0.0 B of 31.0 MiB)	
+/dev/sda1	/boot/efi	34.13 % (63.2 MiB of 96.0 MiB)	
+/dev/loop9	/snap/gtk-common-themes/1514	100.00 % (0.0 B of 64.9 MiB)	
+/dev/loop10	/snap/snap-store/498	100.00 % (0.0 B of 51.1 MiB)	
+/dev/loop11	/snap/snapd/8542	100.00 % (0.0 B of 30.0 MiB)	
+tmpfs	/run/snapd/ns	0.04 % (6.3 GiB of 6.3 GiB)	
+tmpfs	/run/user/125	0.00 % (6.3 GiB of 6.3 GiB)	
+tmpfs	/run/user/1000	0.00 % (6.3 GiB of 6.3 GiB)	
+
+Display
+-------
+
+-Display-
+Resolution		: 2560x1080 pixels
+Vendor		: The X.Org Foundation
+Version		: 1.20.8
+Current Display Name		: :1
+-Monitors-
+Monitor 0		: 2560x1080 pixels
+-OpenGL-
+Vendor		: (Unknown)
+Renderer		: (Unknown)
+Version		: (Unknown)
+Direct Rendering		: No
+-Extensions-
+Composite
+DAMAGE
+DOUBLE-BUFFER
+DPMS
+DRI2
+GLX
+Generic Event Extension
+MIT-SCREEN-SAVER
+MIT-SHM
+NV-CONTROL
+NV-GLX
+Present
+RANDR
+RECORD
+RENDER
+SECURITY
+SHAPE
+SYNC
+X-Resource
+XC-MISC
+XFIXES
+XFree86-DGA
+XFree86-VidModeExtension
+XINERAMA
+XINERAMA
+XInputExtension
+XKEYBOARD
+XTEST
+XVideo
+default screen number:    0
+
+Environment Variables
+---------------------
+
+-Environment Variables-
+GJS_DEBUG_TOPICS		: JS ERROR;JS LOG
+USER		: anthony
+SSH_AGENT_PID		: 1931
+XDG_SESSION_TYPE		: x11
+SHLVL		: 0
+HOME		: /home/anthony
+DESKTOP_SESSION		: ubuntu
+GIO_LAUNCHED_DESKTOP_FILE		: /usr/share/applications/hardinfo.desktop
+GTK_MODULES		: gail:atk-bridge
+GNOME_SHELL_SESSION_MODE		: ubuntu
+MANAGERPID		: 1747
+DBUS_SESSION_BUS_ADDRESS		: unix:path=/run/user/1000/bus
+GIO_LAUNCHED_DESKTOP_FILE_PID		: 40419
+IM_CONFIG_PHASE		: 1
+LOGNAME		: anthony
+_		: /usr/bin/dbus-update-activation-environment
+JOURNAL_STREAM		: 9:44609
+XDG_SESSION_CLASS		: user
+USERNAME		: anthony
+GNOME_DESKTOP_SESSION_ID		: this-is-deprecated
+WINDOWPATH		: 2
+PATH		: /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+SESSION_MANAGER		: local/linux:@/tmp/.ICE-unix/1965,unix/linux:/tmp/.ICE-unix/1965
+INVOCATION_ID		: 28f8816404644a05a3b36e52f4aff252
+XDG_RUNTIME_DIR		: /run/user/1000
+XDG_MENU_PREFIX		: gnome-
+DISPLAY		: :1
+LANG		: en_US.UTF-8
+XDG_CURRENT_DESKTOP		: ubuntu:GNOME
+XAUTHORITY		: /run/user/1000/gdm/Xauthority
+XDG_SESSION_DESKTOP		: ubuntu
+XMODIFIERS		: @im=ibus
+SSH_AUTH_SOCK		: /run/user/1000/keyring/ssh
+SHELL		: /bin/bash
+QT_ACCESSIBILITY		: 1
+GDMSESSION		: ubuntu
+GPG_AGENT_INFO		: /run/user/1000/gnupg/S.gpg-agent:0:1
+GJS_DEBUG_OUTPUT		: stderr
+QT_IM_MODULE		: ibus
+PWD		: /home/anthony
+XDG_DATA_DIRS		: /usr/share/ubuntu:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop
+XDG_CONFIG_DIRS		: /etc/xdg/xdg-ubuntu:/etc/xdg
+
+Development
+-----------
+
+-Scripting Languages-
+Gambas3 (gbr3)		: Not found
+Python		: Not found
+Python2		: Not found
+Python3		: 3.8.5
+Perl		: 5.30.0
+Perl6 (VM)		: Not found
+Perl6		: Not found
+PHP		: Not found
+Ruby		: Not found
+Bash		: 5.0.17(1)-release
+-Compilers-
+C (GCC)		: 9.3.0
+C (Clang)		: Not found
+D (dmd)		: Not found
+Gambas3 (gbc3)		: Not found
+Java		: Not found
+CSharp (Mono, old)		: Not found
+CSharp (Mono)		: Not found
+Vala		: Not found
+Haskell (GHC)		: Not found
+FreePascal		: Not found
+Go		: Not found
+-Tools-
+make		: 4.2
+GDB		: (Ubuntu 9.2-0ubuntu1~20.04) 9.2
+strace		: 5.5
+valgrind		: Not found
+QMake		: Not found
+CMake		: Not found
+Gambas3 IDE		: Not found
+
+Users
+-----
+
+-Users-
+root		: root
+daemon		: daemon
+bin		: bin
+sys		: sys
+sync		: sync
+games		: games
+man		: man
+lp		: lp
+mail		: mail
+news		: news
+uucp		: uucp
+proxy		: proxy
+www-data		: www-data
+backup		: backup
+list		: Mailing List Manager
+irc		: ircd
+gnats		: Gnats Bug-Reporting System (admin)
+nobody		: nobody
+systemd-network		: systemd Network Management
+systemd-resolve		: systemd Resolver
+systemd-timesync		: systemd Time Synchronization
+messagebus
+syslog
+_apt
+tss		: TPM software stack
+uuidd
+tcpdump
+avahi-autoipd		: Avahi autoip daemon
+usbmux		: usbmux daemon
+rtkit		: RealtimeKit
+dnsmasq		: dnsmasq
+cups-pk-helper		: user for cups-pk-helper service
+speech-dispatcher		: Speech Dispatcher
+avahi		: Avahi mDNS daemon
+kernoops		: Kernel Oops Tracking Daemon
+saned
+nm-openvpn		: NetworkManager OpenVPN
+hplip		: HPLIP system user
+whoopsie
+colord		: colord colour management daemon
+geoclue
+pulse		: PulseAudio daemon
+gnome-initial-setup
+gdm		: Gnome Display Manager
+anthony		: anthony
+systemd-coredump		: systemd Core Dumper
+nvidia-persistenced		: NVIDIA Persistence Daemon
+root		: root
+nobody		: nobody
+
+Groups
+------
+
+-Group-
+root		: 0
+daemon		: 1
+bin		: 2
+sys		: 3
+adm		: 4
+tty		: 5
+disk		: 6
+lp		: 7
+mail		: 8
+news		: 9
+uucp		: 10
+man		: 12
+proxy		: 13
+kmem		: 15
+dialout		: 20
+fax		: 21
+voice		: 22
+cdrom		: 24
+floppy		: 25
+tape		: 26
+sudo		: 27
+audio		: 29
+dip		: 30
+www-data		: 33
+backup		: 34
+operator		: 37
+list		: 38
+irc		: 39
+src		: 40
+gnats		: 41
+shadow		: 42
+utmp		: 43
+video		: 44
+sasl		: 45
+plugdev		: 46
+staff		: 50
+games		: 60
+users		: 100
+nogroup		: 65534
+systemd-journal		: 101
+systemd-network		: 102
+systemd-resolve		: 103
+systemd-timesync		: 104
+crontab		: 105
+messagebus		: 106
+input		: 107
+kvm		: 108
+render		: 109
+syslog		: 110
+tss		: 111
+bluetooth		: 112
+ssl-cert		: 113
+uuidd		: 114
+tcpdump		: 115
+avahi-autoipd		: 116
+rtkit		: 117
+ssh		: 118
+netdev		: 119
+lpadmin		: 120
+avahi		: 121
+scanner		: 122
+saned		: 123
+nm-openvpn		: 124
+whoopsie		: 125
+colord		: 126
+geoclue		: 127
+pulse		: 128
+pulse-access		: 129
+gdm		: 130
+lxd		: 131
+anthony		: 1000
+sambashare		: 132
+systemd-coredump		: 999
+nvidia-persistenced		: 133
+root		: 0
+nogroup		: 65534
