@@ -1,4 +1,8 @@
 # Mapping-Uncanny-Valley
+![GitHub watchers](https://img.shields.io/github/watchers/anthonyive/Research-Mapping-Uncanny-Valley?style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/anthonyive/Research-Mapping-Uncanny-Valley?style=social)
+![GitHub forks](https://img.shields.io/github/forks/anthonyive/Research-Mapping-Uncanny-Valley?style=social)
+
 ![last commit](https://img.shields.io/github/last-commit/anthonyive/Research-Mapping-Uncanny-Valley?style=flat-square)
 ![commit activity](https://img.shields.io/github/commit-activity/m/anthonyive/Research-Mapping-Uncanny-Valley?style=flat-square)
 ![code size](https://img.shields.io/github/languages/code-size/anthonyive/Research-Mapping-Uncanny-Valley?style=flat-square)
