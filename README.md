@@ -10,6 +10,9 @@
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=flat-square)](https://www.python.org/)
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=flat-square&logo=Jupyter)](https://jupyter.org/try)
 
+![GitHub Pipenv locked Python version](https://img.shields.io/github/pipenv/locked/python-version/anthonyive/Research-Mapping-Uncanny-Valley?style=flat-square)
+![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/anthonyive/Research-Mapping-Uncanny-Valley/tensorflow?style=flat-square)
+
 
 
 This is an amazing research project from [Professor Keith](https://www.isi.edu/people/keithab/about)
