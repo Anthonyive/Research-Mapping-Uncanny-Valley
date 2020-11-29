@@ -8,7 +8,7 @@
 
 
 This is an amazing research project from [Professor Keith](https://www.isi.edu/people/keithab/about)
-
+ 
 Here is my code to tackle this.
 
 ## Overview
@@ -42,3 +42,6 @@ Here is my code to tackle this.
 
 ## Weekly Outline
 Weekly outline can be seen in the projects tab.
+
+# System and package information
+Dealing with tensorflow gpu can be a little bit tricky, so I includes [system information](hardinfo.txt), [apt packages installation information](packinfo.txt), and [python packages information](Pipfile).
