@@ -9,6 +9,15 @@ pandas = "*"
 matplotlib = "*"
 tensorflow = "*"
 ipykernel = "*"
+spacy = {extras = ["cuda101"], version = "*"}
+gdown = "*"
+sentence-transformers = "*"
+seaborn = "*"
+swifter = "*"
+tqdm = "*"
+ray = {extras = ["tune"], version = "*"}
+numba = "*"
+ipywidgets = "*"
 
 [dev-packages]
 
