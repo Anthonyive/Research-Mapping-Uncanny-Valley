@@ -1,4 +1,8 @@
 # Mapping-Uncanny-Valley
+![GitHub watchers](https://img.shields.io/github/watchers/anthonyive/Research-Mapping-Uncanny-Valley?style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/anthonyive/Research-Mapping-Uncanny-Valley?style=social)
+![GitHub forks](https://img.shields.io/github/forks/anthonyive/Research-Mapping-Uncanny-Valley?style=social)
+
 ![last commit](https://img.shields.io/github/last-commit/anthonyive/Research-Mapping-Uncanny-Valley?style=flat-square)
 ![commit activity](https://img.shields.io/github/commit-activity/m/anthonyive/Research-Mapping-Uncanny-Valley?style=flat-square)
 ![code size](https://img.shields.io/github/languages/code-size/anthonyive/Research-Mapping-Uncanny-Valley?style=flat-square)
@@ -6,10 +10,15 @@
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=flat-square)](https://www.python.org/)
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=flat-square&logo=Jupyter)](https://jupyter.org/try)
 
+![GitHub Pipenv locked Python version](https://img.shields.io/github/pipenv/locked/python-version/anthonyive/Research-Mapping-Uncanny-Valley?style=flat-square)
+![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/anthonyive/Research-Mapping-Uncanny-Valley/tensorflow?style=flat-square)
+
+
 
 This is an amazing research project from [Professor Keith](https://www.isi.edu/people/keithab/about)
 
-Here is my code to tackle this.
+### System and package information
+Dealing with tensorflow gpu can be a little bit tricky, so I included [system information](hardinfo.txt), [apt packages installation information](packinfo.txt), and [python packages information](Pipfile).
 
 ## Overview
 - “Nearly-human” creatures persist in stories across cultures
