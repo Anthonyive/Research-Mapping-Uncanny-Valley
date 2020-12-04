@@ -15,7 +15,8 @@
 
 
 
-This is an amazing research project from [Professor Keith](https://www.isi.edu/people/keithab/about)
+This is an amazing research project from [Professor Keith](https://www.isi.edu/people/keithab/about).
+Team members: Haripriya Dharmala, Nai-Cih Liou, Raveena Kshatriya, Sakshi Goel, Yuchen Zhang
 
 ### System and package information
 Dealing with tensorflow gpu can be a little bit tricky, so I included [system information](hardinfo.txt), [apt packages installation information](packinfo.txt), and [python packages information](Pipfile).
