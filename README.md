@@ -16,6 +16,7 @@
 
 
 This is an amazing research project from [Professor Keith](https://www.isi.edu/people/keithab/about).
+
 Team members: Haripriya Dharmala, Nai-Cih Liou, Raveena Kshatriya, Sakshi Goel, Yuchen Zhang
 
 ### System and package information
