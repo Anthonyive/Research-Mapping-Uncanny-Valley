@@ -9,7 +9,7 @@ def release_vram():
 	device = cuda.get_current_device()
 	device.reset()
     
-def semantic_search(document, model='distilbert-base-nli-stsb-mean-tokens', verbose=False, sort_by='high_to_low', first_n = None):
+def semantic_search(document, model='distilbert-base-nli-stsb-mean-tokens', verbose=False, sort_by='alphabetical', first_n = None):
     doc = nlp(document)
     embedder = SentenceTransformer(model)
     
