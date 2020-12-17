@@ -18,6 +18,8 @@ tqdm = "*"
 ray = {extras = ["tune"], version = "*"}
 numba = "*"
 ipywidgets = "*"
+nltk = "*"
+torchtext = "*"
 
 [dev-packages]
 
