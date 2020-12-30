@@ -20,6 +20,10 @@ numba = "*"
 ipywidgets = "*"
 nltk = "*"
 torchtext = "*"
+jupyter = "*"
+parso = "==0.7.1"
+pipdeptree = "*"
+jedi = "==0.17.2"
 
 [dev-packages]
 
