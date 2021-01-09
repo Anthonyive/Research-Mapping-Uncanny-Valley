@@ -26,6 +26,9 @@ pipdeptree = "*"
 jedi = "==0.17.2"
 jupyter-nbextensions-configurator = "*"
 jupyter-contrib-nbextensions = "*"
+ftfy = "*"
+langdetect = "*"
+cloudpickle = "*"
 
 [dev-packages]
 

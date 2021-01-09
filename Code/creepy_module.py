@@ -10,7 +10,7 @@ from ftfy import fix_text
 import matplotlib
 import swifter
 
-def clean_data(csv_in):
+def clean_data(csv_in, lang='en'):
     from ftfy import fix_text
     from langdetect import detect
     from tqdm import tqdm
@@ -77,7 +77,7 @@ def clean_data(csv_in):
     csv['selftext_language'] = csv.selftext.swifter.progress_bar(enable=True, desc='Detecting posts language').apply(detect_lang)
     
     # return posts that are written in english
-    csv = csv.loc[csv.selftext_language == 'en',:]
+    csv = csv.loc[csv.selftext_language == lang,:]
         
     return csv
 
