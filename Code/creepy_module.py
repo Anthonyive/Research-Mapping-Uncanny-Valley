@@ -21,8 +21,9 @@ def clean_data(csv_in, lang='en'):
     
     print('Reading data...')
     csv = pd.read_csv(csv_in, 
-                      usecols = ['id', 'title', 'selftext', 'score'], 
-                      dtype = {'id': 'string', 'title': 'string', 'selftext': 'string', 'score': 'object'})
+                      usecols = ['subreddit', 'id', 'created_utc', 'title', 'selftext', 'score'], 
+                      dtype = {'subreddit': 'string', 'id': 'string', 'created_utc': 'object', 'title': 'string', 'selftext': 'string', 'score': 'object'})
+    csv.reset_index(inplace = True)
     csv.score = pd.to_numeric(csv.score,errors='coerce')
     print('Done')
     
