@@ -29,6 +29,7 @@ jupyter-contrib-nbextensions = "*"
 ftfy = "*"
 langdetect = "*"
 cloudpickle = "*"
+networkx = "*"
 
 [dev-packages]
 
