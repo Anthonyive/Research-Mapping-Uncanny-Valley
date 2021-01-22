@@ -37,6 +37,7 @@ jupyter_nbextensions_configurator = "*"
 Cython = ">=0.25"
 stanford-openie = "*"
 truecase = "*"
+fasttext = "*"
 
 [dev-packages]
 
