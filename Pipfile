@@ -38,6 +38,7 @@ Cython = ">=0.25"
 stanford-openie = "*"
 truecase = "*"
 fasttext = "*"
+sqlalchemy = "*"
 
 [dev-packages]
 
