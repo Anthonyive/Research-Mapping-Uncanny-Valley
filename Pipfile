@@ -39,6 +39,7 @@ stanford-openie = "*"
 truecase = "*"
 fasttext = "*"
 sqlalchemy = "*"
+py2neo = "*"
 
 [dev-packages]
 
