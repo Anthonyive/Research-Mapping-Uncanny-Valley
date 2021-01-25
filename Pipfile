@@ -40,6 +40,7 @@ truecase = "*"
 fasttext = "*"
 sqlalchemy = "*"
 py2neo = "*"
+textblob = "*"
 
 [dev-packages]
 
