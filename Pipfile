@@ -41,6 +41,8 @@ fasttext = "*"
 sqlalchemy = "*"
 py2neo = "*"
 textblob = "*"
+keras = "*"
+bs4 = "*"
 
 [dev-packages]
 
