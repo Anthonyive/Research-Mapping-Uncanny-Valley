@@ -1,5 +1,5 @@
 {
-    "python.pythonPath": ".venv\\creepyvenv\\Scripts\\python.exe",
+    "python.pythonPath": "/home/anthony/.local/share/virtualenvs/Research-Mapping-Uncanny-Valley-DSc8QBrC/bin/python",
     "json.schemas": [
     
     ],
