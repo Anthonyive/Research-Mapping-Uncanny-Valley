@@ -48,6 +48,7 @@ transformers = "*"
 # torchvision = {version = "==0.8.2+cu110", file = "https://download.pytorch.org/whl/cu110/torchvision-0.8.2%2Bcu110-cp38-cp38-win_amd64.whl"}
 torchvision = "*"
 dill = "*"
+ipympl = "*"
 
 [dev-packages]
 autopep8 = "*"
