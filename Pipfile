@@ -49,6 +49,7 @@ transformers = "*"
 torchvision = "*"
 dill = "*"
 ipympl = "*"
+jupyterlab = "*"
 
 [dev-packages]
 autopep8 = "*"
