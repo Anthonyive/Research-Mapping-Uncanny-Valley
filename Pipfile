@@ -53,6 +53,9 @@ scattertext = "*"
 spacy = "*"
 pytextrank = "*"
 empath = "*"
+giotto-tda = "*"
+pyforest = "*"
+kaggle = "*"
 
 [dev-packages]
 autopep8 = "*"
