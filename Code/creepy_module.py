@@ -9,20 +9,58 @@ from tensorflow import keras
 from ftfy import fix_text
 import matplotlib
 import swifter
+from ftfy import fix_text
+from langdetect import detect
+from tqdm import tqdm
+from tqdm.gui import tqdm as tqdm_gui
+import swifter
+from ftfy import fix_text
+from langdetect import detect
+from tqdm import tqdm
+from tqdm.gui import tqdm as tqdm_gui
+import swifter
 
 def clean_data(csv_in, lang='en'):
-    from ftfy import fix_text
-    from langdetect import detect
-    from tqdm import tqdm
-    from tqdm.gui import tqdm as tqdm_gui
-    import swifter
+    '''
+    Cleans the reddit data in csv format and returns only one language specified.
+    
+    Input csv needs at least these columns:
+        subreddit: str, subreddit name, usually repeated.
+        id: str, post ids, usually are length six strings.
+        created_utc: int, time created in UNIX time.
+        title: str, post title.
+        selftext: str, post body. 
+        score: int, post upvotes.
+        
+    Main features:
+        - Drop removed, deleted, and NAs
+        - Remove links
+        - Fix encoding problems and strip spaces
+        - Filter out all languages except language specified
+
+    Parameters
+    ----------
+    csv_in : str, required
+        The path to the input csv.
+    lang : str, optional
+        Filter out the language specified. For example, if lang is 'en', then the cleaned data will only return posts that are detected as English. 
+
+    Raises
+    ------
+    
+    '''
 
     tqdm.pandas(ncols=50)  # can use tqdm_gui, optional kwargs, etc
     
     print('Reading data...')
     csv = pd.read_csv(csv_in, 
                       usecols = ['subreddit', 'id', 'created_utc', 'title', 'selftext', 'score'], 
-                      dtype = {'subreddit': 'string', 'id': 'string', 'created_utc': 'object', 'title': 'string', 'selftext': 'string', 'score': 'object'})
+                      dtype = {'subreddit': 'string', 
+                               'id': 'string', 
+                               'created_utc': 'object', 
+                               'title': 'string', 
+                               'selftext': 'string', 
+                               'score': 'object'})
     csv.reset_index(inplace = True)
     csv.score = pd.to_numeric(csv.score,errors='coerce')
     print('Done')
@@ -86,11 +124,31 @@ def clean_data(csv_in, lang='en'):
 
 
 def clean_comments(csv_in):
-    from ftfy import fix_text
-    from langdetect import detect
-    from tqdm import tqdm
-    from tqdm.gui import tqdm as tqdm_gui
-    import swifter
+    '''
+    Cleans the reddit data's comments in csv format.
+    
+    Input csv needs at least these columns:
+        parent_id: str, post id
+        link_id: str, id of link
+        body: str, comment body
+        score: int, comment upvotes
+        
+    Main features:
+        - Drop removed, deleted, and NAs
+        - Drop indirect comments. Only direct comments will be kept
+        - Remove links
+        - Fix encoding problems and strip spaces
+        - Filter out all languages except language specified
+
+    Parameters
+    ----------
+    csv_in : str, required
+        The path to the input csv.
+
+    Raises
+    ------
+    
+    '''
     
     tqdm.pandas(ncols=50)  # can use tqdm_gui, optional kwargs, etc
     
