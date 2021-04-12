@@ -4,7 +4,6 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-numpy = "*"
 pandas = "*"
 matplotlib = "*"
 ipykernel = "*"
@@ -57,7 +56,10 @@ pyforest = "*"
 kaggle = "*"
 kaleido = "*"
 tika = "*"
-tensorflow = "==2.2.0"
+hdbscan = "*"
+scikit-fda = "*"
+tensorflow = "*"
+numpy = "==1.20.1"
 
 [dev-packages]
 autopep8 = "*"
